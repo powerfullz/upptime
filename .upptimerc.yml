@@ -11,6 +11,15 @@ sites:
     url: https://rsshub.l3zc.com
   - name: Iceshrimp
     url: https://social.l3zc.com
+  - name: Umami
+    url: https://analytics.l3zc.com
+  - name: Plausible
+    url: https://analytics.nightcity.pub
+  - name: Comment API
+    url: https://commentapi.nightcity.pub
+    expectedStatusCodes:
+      - 100
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
