@@ -7,11 +7,10 @@ sites:
     url: https://blog.l3zc.com
   - name: Raspberry Pi Tunnel
     url: https://rpiblog.l3zc.com
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: RSSHub
+    url: https://rsshub.l3zc.com
+  - name: Iceshrimp
+    url: https://social.l3zc.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
