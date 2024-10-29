@@ -58,36 +58,40 @@
     "url": "https://social.l3zc.com",
     "icon": "https://icons.duckduckgo.com/ip3/social.l3zc.com.ico",
     "slug": "iceshrimp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 501,
-    "timeWeek": 402,
-    "timeMonth": 402,
-    "timeYear": 402,
-    "dailyMinutesDown": {}
+    "time": 382,
+    "timeDay": 352,
+    "timeWeek": 382,
+    "timeMonth": 382,
+    "timeYear": 382,
+    "dailyMinutesDown": {
+      "2024-10-29": 0
+    }
   },
   {
     "name": "Umami",
     "url": "https://analytics.l3zc.com",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.l3zc.com.ico",
     "slug": "umami",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 303,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 229,
-    "dailyMinutesDown": {}
+    "time": 215,
+    "timeDay": 217,
+    "timeWeek": 215,
+    "timeMonth": 215,
+    "timeYear": 215,
+    "dailyMinutesDown": {
+      "2024-10-29": 0
+    }
   },
   {
     "name": "Plausible",
