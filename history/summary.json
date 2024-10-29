@@ -22,19 +22,19 @@
     "url": "https://rpiblog.l3zc.com",
     "icon": "https://icons.duckduckgo.com/ip3/rpiblog.l3zc.com.ico",
     "slug": "raspberry-pi-tunnel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 312,
-    "timeWeek": 417,
-    "timeMonth": 417,
-    "timeYear": 417,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 433,
+    "timeDay": 419,
+    "timeWeek": 433,
+    "timeMonth": 433,
+    "timeYear": 433,
     "dailyMinutesDown": {
-      "2024-10-29": 0
+      "2024-10-29": 7
     }
   },
   {
