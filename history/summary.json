@@ -74,7 +74,7 @@
     "time": 463,
     "timeDay": 594,
     "timeWeek": 632,
-    "timeMonth": 495,
+    "timeMonth": 506,
     "timeYear": 463,
     "dailyMinutesDown": {
       "2024-12-01": 51,
@@ -109,19 +109,19 @@
     "url": "https://analytics.nightcity.pub",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.nightcity.pub.ico",
     "slug": "plausible",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
     "time": 892,
-    "timeDay": 767,
-    "timeWeek": 808,
-    "timeMonth": 880,
+    "timeDay": 843,
+    "timeWeek": 822,
+    "timeMonth": 881,
     "timeYear": 892,
     "dailyMinutesDown": {
-      "2024-12-01": 0
+      "2024-12-01": 34
     }
   },
   {
@@ -129,19 +129,19 @@
     "url": "https://commentapi.nightcity.pub",
     "icon": "https://icons.duckduckgo.com/ip3/commentapi.nightcity.pub.ico",
     "slug": "comment-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 917,
-    "timeDay": 763,
-    "timeWeek": 852,
-    "timeMonth": 936,
-    "timeYear": 917,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
+    "time": 916,
+    "timeDay": 825,
+    "timeWeek": 856,
+    "timeMonth": 934,
+    "timeYear": 916,
     "dailyMinutesDown": {
-      "2024-12-01": 0
+      "2024-12-01": 34
     }
   }
 ]
