@@ -109,9 +109,9 @@
     "url": "https://analytics.nightcity.pub",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.nightcity.pub.ico",
     "slug": "plausible",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -120,16 +120,18 @@
     "timeWeek": 808,
     "timeMonth": 880,
     "timeYear": 892,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-01": 0
+    }
   },
   {
     "name": "Comment API",
     "url": "https://commentapi.nightcity.pub",
     "icon": "https://icons.duckduckgo.com/ip3/commentapi.nightcity.pub.ico",
     "slug": "comment-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -138,6 +140,8 @@
     "timeWeek": 852,
     "timeMonth": 936,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-01": 0
+    }
   }
 ]
