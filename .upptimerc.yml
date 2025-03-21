@@ -13,10 +13,8 @@ sites:
     url: https://social.l3zc.com
   - name: Umami
     url: https://analytics.l3zc.com
-  - name: Plausible
-    url: https://analytics.nightcity.pub
   - name: Comment API
-    url: https://commentapi.nightcity.pub
+    url: https://commentapi.l3zc.com
     expectedStatusCodes:
       - 100
       - 200
